@@ -7,12 +7,6 @@ return(
        <Navigation />
        <HeroSection/>
     </div>
-
-
-       
-
-
-
 );
 };
 export default App;
